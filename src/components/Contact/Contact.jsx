@@ -13,7 +13,7 @@ const Contact = () => {
     return (
         <div  className='section-container'>
             <Header heading="Get in touch."
-            details="Interested to collaborate? Feel free to drop me an email"
+            details="Interested to collaborate? Feel free to drop me an emaile"
             
             />
 
