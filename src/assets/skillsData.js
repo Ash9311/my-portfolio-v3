@@ -12,6 +12,10 @@ export const skillList = [
         skillUrl: 'https://madhavbahl.tech/portfolio-assets/js.png',
     },
     {
+        skillName: 'Angular',
+        skillUrl: 'https://github.com/Ash9311/My_Portfolio-assets/blob/main/assets/angular.png?raw=true',
+    },
+    {
         skillName: 'React',
         skillUrl: 'https://madhavbahl.tech/portfolio-assets/react.png',
     },

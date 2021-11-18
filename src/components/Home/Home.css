@@ -1,5 +1,9 @@
 .home-container{
-    background: linear-gradient(39.97deg,#03d6f3 0.79%, #458ff6 79.29%);
+    /* background: linear-gradient(39.97deg,#fbfbfd 0.79%, #fbfbfd 79.29%); */
+    /* background: linear-gradient(18deg, 232f3e -177.21%, white 58.29%); 
+    background: linear-gradient(379deg,lightblue 77.79%,#fbfbfd 54.29%);
+    background: linear-gradient(682deg,lightblue 14.79%,#fbfbfd 71.29%);*/
+    background:  linear-gradient(96deg,lightblue -218.21%,#fbfbfd 331.29%);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -25,7 +29,7 @@
     line-height: 62px;
     text-align: center;
     letter-spacing: 0.2px;
-    color: #fff;
+    color:#232f3e;
     margin: 10px;
 }
 
@@ -35,7 +39,7 @@
     font-weight: 600;
     font-size: 19px;
     line-height: 20px;
-    color: #e5e5e5;
+    color:#232f3e;
     margin: 10px;
 }
 
@@ -70,7 +74,7 @@
 .btn-transparent{
     border:1px solid #fff;
     box-sizing: border-box;
-    color:#fff;
+    color:#232f3e;
 }
 
 .btn:hover{
