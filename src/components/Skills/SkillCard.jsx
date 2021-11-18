@@ -9,4 +9,5 @@ const SkillCard = ({skillName,skillUrl}) => {
         </div>
     )
 }
+
 export default SkillCard;
