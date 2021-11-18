@@ -1,8 +1,8 @@
 /* Position and size our burger button */
 .bm-burger-button {
     position: fixed;
-    width: 36px;
-    height: 36px;
+    width: 30px;
+    height: 30px;
     left: 32px;
     top: 32px;
 }
@@ -49,10 +49,10 @@
 
 .menu-item {
     position: relative;
-    font-size: 2em;
+    font-size: 1.5em;
     text-decoration: none;
     color: #fff;
-    font-family: Montserrat;
+    font-family: poppins;
     font-style: normal;
     font-weight: normal;
     padding: 10px;

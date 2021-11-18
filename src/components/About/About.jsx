@@ -18,9 +18,8 @@ const About= () => {
                 Software Engineer at Accenture
             </h3>
             <p className="about-details">
-            -Developed Web Application and component strategy in line with the business strategy(Angular,Nodejs,MongoDB,typeScript,C#).
--Baked technology trends into solutions.
--Designed, built, assembled, and configured application or technical architecture components using business requirements.
+            Currently working on most crucial internal project MyWizard Process Builder.myWizardő (Phoenix) intelligent automation platform provides feature rich platform to integrate various types of business products, apps and services.
+            Process Builder helps you to define different processes in graphical form and to monitor and track the progress of the process. And the stacks I've worked on are Angular,typescript,C#,MongoDB.
 
             </p>
 
