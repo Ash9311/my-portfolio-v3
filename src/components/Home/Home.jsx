@@ -4,6 +4,7 @@ import './Home.css';
 import homeAnime from './../../assets/home_anime.gif';
 import myPic from './../../assets/ashutosh.webp';
 import Modal from '../Modal/Modal';
+import aboutVector from './../../assets/about_vector.png';
 class Home extends Component{
     render(){
         return (
@@ -28,6 +29,13 @@ class Home extends Component{
                 <div className="splash-image">
                     <img src={homeAnime} alt="animation" className="home-anime"/>
                 </div>
+            
+                {/* vector Frame */}
+    <div className="vector-frame">
+        <img src={aboutVector} className="about-vector" alt="about"/>
+    </div>
+        
+
             </div>
             
         )

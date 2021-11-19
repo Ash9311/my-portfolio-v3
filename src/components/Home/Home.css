@@ -109,6 +109,37 @@
     margin-top: -40px;
 }
 
+.skills-vector-frame{
+    position: absolute;
+    display: flex;
+    right: 0;
+    bottom: 0;
+    flex-direction: row-reverse;
+    z-index: -10;
+    width: 80%;
+}
+
+.skills-vector{
+    max-height: 100%;
+    width: 100%;
+}
+
+.vector-frame {
+    position: absolute;
+    z-index: -10;
+    left: 0;
+    bottom: 0;
+    width: 55%;
+
+}
+
+.about-vector {
+    display: block;
+    max-height:100%;
+    max-width: 100%;
+}
+
+
 /* for small screens */
 
 @media only screen and (max-height: 550px){

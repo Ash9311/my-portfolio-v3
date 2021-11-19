@@ -32,7 +32,9 @@ const Projects = () => {
 
 
             <FooterLink phrase="Check out " link="my skills!" toAdress="/skills" />
+            
         </div>
+        
     )
 }
 
