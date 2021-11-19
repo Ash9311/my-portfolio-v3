@@ -18,7 +18,7 @@ const ProjectCard = ({
             <div className="project-details-container">
                 <h2 className="project-heading">{projectName}</h2>
                 <div className="project-details">{projectDescription}</div>
-                <a href="videoUrl" className="project-yt-link">Watch More!</a>
+                {/* <a href="videoUrl" className="project-yt-link">Watch More!</a> */}
             </div>
         </div>
     )

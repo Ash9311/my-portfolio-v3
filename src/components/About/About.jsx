@@ -37,10 +37,10 @@ Thanks to well balanced curriculum that i got ample time to dive into different 
                 Coding Profiles
             </h3>
             <p className="about-details">
-            <p><a href="https://www.codechef.com/users/ashutosh_mulky"> CodeChef 3 stars(max)</a>: Rated on the basis of live programming contests.</p>
-            <p><a href="https://auth.geeksforgeeks.org/user/ashutoshmulky7/profile"> Geeks For Geeks</a>: Solved 100+ programming problems.</p>
-            <p><a href="https://leetcode.com/mulky/"> Leetcode</a>: Solved 50+ programming problems.</p>
-            <p><a href="https://www.sololearn.com/profile/2871288/"> SoloLearn</a>: Rated on the basis of coding challenges,Quizzes,Contributions</p>
+            <a href="https://www.codechef.com/users/ashutosh_mulky"> CodeChef 3 stars(max)</a>: Rated on the basis of live programming contests.<br/>
+            <a href="https://auth.geeksforgeeks.org/user/ashutoshmulky7/profile"> Geeks For Geeks</a>: Solved 100+ programming problems.<br/>
+            <a href="https://leetcode.com/mulky/"> Leetcode</a>: Solved 50+ programming problems.<br/>
+            <a href="https://www.sololearn.com/profile/2871288/"> SoloLearn</a>: Rated on the basis of coding challenges,Quizzes,Contributions.<br/>
             </p>
 
              {/* sub section 4 */}
