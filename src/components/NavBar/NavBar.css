@@ -37,8 +37,9 @@
 }
 
 .bm-menu {
-    /* background: linear-gradient(39.97deg, #232f3e 0.79%, #232f3e 79.29%); */
-    background: linear-gradient(18deg, white -177.21%, #232f3e 58.29%);
+    background: linear-gradient(39.97deg, #232f3e 0.79%, #232f3e 79.29%);
+    /* background: linear-gradient(18deg, white -177.21%, #232f3e 58.29%); */
+    /* background-color: #333; */
     padding: 2.5em 1.5em 0 0;
     height: 100vh;
     overflow: hidden !important;

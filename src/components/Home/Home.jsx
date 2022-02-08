@@ -2,7 +2,7 @@ import React, {Component} from "react";
 import {Link} from 'react-router-dom';
 import './Home.css';
 import homeAnime from './../../assets/home_anime.gif';
-import myPic from './../../assets/ashutosh.webp';
+import myPic from './../../assets/ashutosh.jpg';
 import Modal from '../Modal/Modal';
 import aboutVector from './../../assets/about_vector.png';
 class Home extends Component{
